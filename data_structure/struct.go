@@ -13,4 +13,3 @@ func (p *People) SetName(name string, age int) {
 func (p *People) getName() string {
 	return p.Name
 }
-
